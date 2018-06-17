@@ -1,0 +1,12 @@
+https://console.developers.google.com/ 
+Useful PATH settings in youtube video instructions: https://youtu.be/dgjEUcccRwM
+
+6/17/18:    Great website which pointed me to installing google-api-python via conda: https://anaconda.org/conda-forge/google-api-python-client
+
+            Python Google Calendar API documentation :) https://developers.google.com/api-client-library/python/start/get_started
+
+            OAuth 2.0 libraries: https://developers.google.com/accounts/docs/OAuth2
+
+            **** SAMPLE PROJECT, can get information from here if I am stuck: https://community.openhab.org/t/simple-python-script-that-reads-google-calendar-and-updates-oh-items-with-event-information/21586
+
+            END for the day: Was able to get a sample running (called testGoogleAPI.py) and used it to gather all the Calendar names under my Google account. Pretty cool to get that example running!
